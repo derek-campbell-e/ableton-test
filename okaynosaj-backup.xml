@@ -7503,7 +7503,112 @@
 								<lomid value="0">
 								<clipslot>
 									<value>
-								</value></clipslot>
+										<midiclip time="0">
+											<lomid value="0">
+											<lomidview value="0">
+											<warpmarkers>
+												<warpmarker sectime="0" beattime="0">
+												<warpmarker sectime="0.03125" beattime="0.03125">
+											</warpmarker></warpmarker></warpmarkers>
+											<markersgenerated value="false">
+											<currentstart value="0">
+											<currentend value="8">
+											<loop>
+												<loopstart value="0">
+												<loopend value="8">
+												<startrelative value="0">
+												<loopon value="true">
+												<outmarker value="8">
+												<hiddenloopstart value="0">
+												<hiddenloopend value="4">
+											</hiddenloopend></hiddenloopstart></outmarker></loopon></startrelative></loopend></loopstart></loop>
+											<name value="">
+											<annotation value="">
+											<colorindex value="4">
+											<launchmode value="0">
+											<launchquantisation value="0">
+											<timesignature>
+												<timesignatures>
+													<remoteabletimesignature>
+														<numerator value="4">
+														<denominator value="4">
+														<time value="0">
+													</time></denominator></numerator></remoteabletimesignature>
+												</timesignatures>
+											</timesignature>
+											<envelopes>
+												<envelopes>
+											</envelopes>
+											<scrollertimepreserver>
+												<lefttime value="0">
+												<righttime value="8.7815399549421205">
+											</righttime></lefttime></scrollertimepreserver>
+											<timeselection>
+												<anchortime value="3.5">
+												<othertime value="2">
+											</othertime></anchortime></timeselection>
+											<legato value="false">
+											<ram value="false">
+											<groovesettings>
+												<grooveid value="-1">
+											</grooveid></groovesettings>
+											<disabled value="false">
+											<velocityamount value="0">
+											<followtime value="4">
+											<followactiona value="0">
+											<followactionb value="0">
+											<followchancea value="1">
+											<followchanceb value="0">
+											<grid>
+												<fixednumerator value="1">
+												<fixeddenominator value="16">
+												<gridintervalpixel value="20">
+												<ntoles value="2">
+												<snaptogrid value="true">
+												<fixed value="true">
+											</fixed></snaptogrid></ntoles></gridintervalpixel></fixeddenominator></fixednumerator></grid>
+											<freezestart value="0">
+											<freezeend value="0">
+											<issongtempomaster value="false">
+											<iswarped value="true">
+											<notes>
+												<keytracks>
+													<keytrack>
+														<notes>
+															<midinoteevent time="0" duration="2" velocity="103" offvelocity="64" isenabled="true">
+														</midinoteevent></notes>
+														<midikey value="60">
+													</midikey></keytrack>
+													<keytrack>
+														<notes>
+															<midinoteevent time="2" duration="1.5" velocity="103" offvelocity="64" isenabled="true">
+														</midinoteevent></notes>
+														<midikey value="63">
+													</midikey></keytrack>
+													<keytrack>
+														<notes>
+															<midinoteevent time="3.5" duration="0.5" velocity="103" offvelocity="64" isenabled="true">
+														</midinoteevent></notes>
+														<midikey value="67">
+													</midikey></keytrack>
+													<keytrack>
+														<notes>
+															<midinoteevent time="4" duration="4" velocity="103" offvelocity="64" isenabled="true">
+														</midinoteevent></notes>
+														<midikey value="72">
+													</midikey></keytrack>
+												</keytracks>
+											</notes>
+											<bankselectcoarse value="-1">
+											<bankselectfine value="-1">
+											<programchange value="-1">
+											<noteeditorfoldinzoom value="-1">
+											<noteeditorfoldinscroll value="-1">
+											<noteeditorfoldoutzoom value="3072">
+											<noteeditorfoldoutscroll value="-1320">
+										</noteeditorfoldoutscroll></noteeditorfoldoutzoom></noteeditorfoldinscroll></noteeditorfoldinzoom></programchange></bankselectfine></bankselectcoarse></iswarped></issongtempomaster></freezeend></freezestart></followchanceb></followchancea></followactionb></followactiona></followtime></velocityamount></disabled></ram></legato></envelopes></launchquantisation></launchmode></colorindex></annotation></name></currentend></currentstart></markersgenerated></lomidview></lomid></midiclip>
+									</value>
+								</clipslot>
 								<hasstop value="true">
 								<needrefreeze value="true">
 							</needrefreeze></hasstop></lomid></clipslot>
